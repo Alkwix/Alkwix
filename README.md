@@ -13,11 +13,16 @@ My background in computer science has cultivated a strong interest in cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| VM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Vulnerability Scanning & Assessment	Windows | Detection Lab |
+| Network & Service Enumeration (Nmap)| Detection Lab |
+| Exploitation of System Misconfigurations | Detection Lab | 
+| Network Traffic Analysis (Wireshark) |	Detection Lab | 
+| Password Cracking (John the Ripper)	Windows | <a href="https://github.com/Alkwix/Penetrating-and-Uncovering-Concealed-Data">CTF lab</a> | 
+| Post-Exploitation & Privilege Exploration |	<a href="https://github.com/Alkwix/Penetrating-and-Uncovering-Concealed-Data">CTF lab</a> | 
+| File & Directory Enumeration | <a href="https://github.com/Alkwix/Penetrating-and-Uncovering-Concealed-Data">CTF lab</a> | 
+| Identification of Indicators of Compromise (IOCs) |	<a href="https://github.com/Alkwix/Penetrating-and-Uncovering-Concealed-Data">CTF lab</a> | 
+| Exploitation Framework Usage (Metasploit) | <a href="https://github.com/Alkwix/Penetrating-and-Uncovering-Concealed-Data">CTF lab</a> |
+| log Analysis & SIEM (Splunk, Sentinel) | Detection Lab |
 
 ### Tools
 
